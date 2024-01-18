@@ -4,4 +4,4 @@
 # 2. Google Drive is no longer allowed for production Adobe projects.
 
 mountpoints:
-  /: https://drive.google.com/drive/folders/1wKmFOrOdsxUTMdtHdAawHgkri7IVrwBs
+  /: https://drive.google.com/drive/folders/1FGtkiOvOkj4DVJ6g5MFYQLdQhXheLmXI?usp=sharing
